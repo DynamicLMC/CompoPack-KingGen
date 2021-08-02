@@ -493,7 +493,7 @@ water_tower_03,21,21,24,-1,2,burnt_forest/snow/pine_forest/desert/wasteland,city
 Medieval_Zone_1,201,153,107
 Asia_Town,131,166,114
 Area_51,94,125,122
-Famers_Community,184,132,160
+Farmers_Community,184,132,160
 Destroyed_Zone_1,125,91,96
 Destroyed_Zone_2,21,102,94
 
@@ -501,7 +501,7 @@ Destroyed_Zone_2,21,102,94
 Medieval_Village,pine_forest,village,Medieval_Zone_1,8,0.3
 Magoli_Town,snow,village,Asia_Town,12,0.3
 Rosenburg,snow/desert,village,Area_51,15,0.3
-Farms,pine_forest/snow,village,Famers_Community,18,0.3
+Farms,pine_forest/snow,village,Farmers_Community,18,0.3
 Scorched_Earth,burnt_forest/wasteland,village,Destroyed_Zone_1,20,0.5
 Nuked_Earth,burnt_forest/wasteland,village,Destroyed_Zone_2,20,0.5
 
@@ -554,28 +554,28 @@ xcostum_red_mesa_alpha_labs(by_Pille),49,43,47,-33,2,snow/desert,rural,Area_51,,
 xcostum_wastelandtrain(by_incrediblejimmy),101,20,11,-2,0,snow/desert,rural,Area_51,,
 
 #Farms
-xcostum_Coronado_barn_lg(by_Slaan),45,12,45,-1,2,pine_forest/snow,rural,Famers_Community,,
-xcostum_Coronado_cornfield_crash(by_Slaan),47,8,47,-2,3,pine_forest/snow,rural,Famers_Community,,
-xcostum_Coronado_cornfield_missle_silo(by_Slaan),45,32,45,-21,2,pine_forest/snow,rural,Famers_Community,,
-xcostum_Coronado_farmSheds(by_Slaan),46,12,45,-4,0,pine_forest/snow,rural,Famers_Community,,
-xcostum_Coronado_farm_lake(by_Slaan),45,10,45,-5,2,pine_forest/snow,rural,Famers_Community,,
-xcostum_Coronado_farmedField(by_Slaan),45,6,47,-1,2,pine_forest/snow,rural,Famers_Community,,
-xcostum_Coronado_shamway_plant(by_Slaan),45,13,45,-2,2,pine_forest/snow,rural,Famers_Community,,
-xcostum_Farm(by_BigC90210),45,18,55,-5,3,pine_forest/snow,rural,Famers_Community,,
-xcostum_Farm_01(by_Zyncosa),61,52,54,-11,0,pine_forest/snow/snow,rural,Famers_Community,,
-xcostum_Farm_02(by_Zyncosa),32,51,62,-11,1,pine_forest/snow,rural,Famers_Community,,
-xcostum_Farm_03(by_Zyncosa),33,42,21,-2,0,pine_forest/snow,rural,Famers_Community,,
-xcostum_Farm_04(by_Zyncosa),35,23,41,-7,0,pine_forest/snow,rural,Famers_Community,,
-xcostum_FarmerJoesNursery(by_Stallionsden),114,27,103,-10,0,pine_forest/snow,rural,Famers_Community,,
-xcostum_TruckStop(by_magoli),45,10,45,-1,2,pine_forest/snow,rural,Famers_Community,,
-xcostum_exfarmstead(by_owl79),37,17,37,-3,2,pine_forest/snow,rural,Famers_Community,,
-xcostum_greenhouse_01(by_FLESHUS),59,27,59,-14,3,pine_forest/snow,rural,Famers_Community,,
-xcostum_RoadHouse(by_Mana_Gobarg),64,22,98,-1,2,pine_forest/snow,rural,Famers_Community,,
-xcostum_Cattle_Yard(by_Mana_Gobarg),69,6,73,-1,0,pine_forest/snow,rural,Famers_Community,,
-xcostum_Cattle_Yard1(by_Mana_Gobarg),69,6,73,-1,0,pine_forest/snow,rural,Famers_Community,,
-xcostum_Silos(by_Mana_Gobarg),60,26,38,-1,2,pine_forest/snow,rural,Famers_Community,,
-xcostum_Homestead(by_Mana),44,34,62,-15,2,pine_forest/snow,rural,Famers_Community,,
-xcostum_Ranch(by_Stallionsden),135,42,172,-14,1,pine_forest/snow,rural,Famers_Community,,
+xcostum_Coronado_barn_lg(by_Slaan),45,12,45,-1,2,pine_forest/snow,rural,Farmers_Community,,
+xcostum_Coronado_cornfield_crash(by_Slaan),47,8,47,-2,3,pine_forest/snow,rural,Farmers_Community,,
+xcostum_Coronado_cornfield_missle_silo(by_Slaan),45,32,45,-21,2,pine_forest/snow,rural,Farmers_Community,,
+xcostum_Coronado_farmSheds(by_Slaan),46,12,45,-4,0,pine_forest/snow,rural,Farmers_Community,,
+xcostum_Coronado_farm_lake(by_Slaan),45,10,45,-5,2,pine_forest/snow,rural,Farmers_Community,,
+xcostum_Coronado_farmedField(by_Slaan),45,6,47,-1,2,pine_forest/snow,rural,Farmers_Community,,
+xcostum_Coronado_shamway_plant(by_Slaan),45,13,45,-2,2,pine_forest/snow,rural,Farmers_Community,,
+xcostum_Farm(by_BigC90210),45,18,55,-5,3,pine_forest/snow,rural,Farmers_Community,,
+xcostum_Farm_01(by_Zyncosa),61,52,54,-11,0,pine_forest/snow/snow,rural,Farmers_Community,,
+xcostum_Farm_02(by_Zyncosa),32,51,62,-11,1,pine_forest/snow,rural,Farmers_Community,,
+xcostum_Farm_03(by_Zyncosa),33,42,21,-2,0,pine_forest/snow,rural,Farmers_Community,,
+xcostum_Farm_04(by_Zyncosa),35,23,41,-7,0,pine_forest/snow,rural,Farmers_Community,,
+xcostum_FarmerJoesNursery(by_Stallionsden),114,27,103,-10,0,pine_forest/snow,rural,Farmers_Community,,
+xcostum_TruckStop(by_magoli),45,10,45,-1,2,pine_forest/snow,rural,Farmers_Community,,
+xcostum_exfarmstead(by_owl79),37,17,37,-3,2,pine_forest/snow,rural,Farmers_Community,,
+xcostum_greenhouse_01(by_FLESHUS),59,27,59,-14,3,pine_forest/snow,rural,Farmers_Community,,
+xcostum_RoadHouse(by_Mana_Gobarg),64,22,98,-1,2,pine_forest/snow,rural,Farmers_Community,,
+xcostum_Cattle_Yard(by_Mana_Gobarg),69,6,73,-1,0,pine_forest/snow,rural,Farmers_Community,,
+xcostum_Cattle_Yard1(by_Mana_Gobarg),69,6,73,-1,0,pine_forest/snow,rural,Farmers_Community,,
+xcostum_Silos(by_Mana_Gobarg),60,26,38,-1,2,pine_forest/snow,rural,Farmers_Community,,
+xcostum_Homestead(by_Mana),44,34,62,-15,2,pine_forest/snow,rural,Farmers_Community,,
+xcostum_Ranch(by_Stallionsden),135,42,172,-14,1,pine_forest/snow,rural,Farmers_Community,,
 
 #Scorched_Earth
 xcostum_Army_01Destroyed(by_Zyncosa),49,48,66,-32,3,burnt_forest/wasteland,rural,Destroyed_Zone_1,,
